@@ -1,4 +1,4 @@
-### Hi there 👋
+### Oiii! Eu sou a Lara
 
 - 🌱 Estudando: Python
 - 😄 Pronouns: ela/dela
