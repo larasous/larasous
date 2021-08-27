@@ -3,7 +3,7 @@
 - 💻 I'm studying to become a Mobile Developer 
 - 🌱 Learning: Python
 - 😄 Pronouns: she/her
-- Fun fact: I like to read
+- ⚡ Fun fact: I like to read
 
 <div>
   <a href="https://github.com/larasous">
