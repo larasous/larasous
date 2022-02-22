@@ -1,6 +1,6 @@
 <h1> Hi! I'm Lara. <img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Hi.gif" width="25"> </h1>
 
-- 💻 I'm studying to become a Mobile Developer 
+- 💻 I'm studying to become a Web and Mobile Developer 
 - 🌱 Learning: Python
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I always forget the semicolon 😅
