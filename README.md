@@ -7,8 +7,8 @@
 
 <div>
   <a href="https://github.com/larasous">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larasous&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larasous&layout=compact&langs_count=7&theme=dracula"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larasous&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larasous&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -19,7 +19,7 @@
   <img align="center" alt="Lara-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
   <img align="center" alt="Lara-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"> 
    
-  <img align="right" alt="Lara-gif" height="150" width="120" style="border-radius:50px;" src=https://cdnb.artstation.com/p/assets/images/images/007/854/263/original/rothana-chhourm-ezgif-com-resize-4.gif?1508943159>
+  <img align="right" alt="Lara-gif" height="150" width="120" style="border-radius:50px;" src="https://cdnb.artstation.com/p/assets/images/images/007/854/263/original/rothana-chhourm-ezgif-com-resize-4.gif?1508943159">
 </div>
  
 ##
