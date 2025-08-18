@@ -1,7 +1,7 @@
 # 🎮 Lara Sousa
 
-✨ *Game on: programando missões, derrotando bugs e colecionando conquistas.*  
-☕ *Código rodando, café na mão e gameplay na veia.*
+✨ *Game on: programming missions, defeating bugs and collecting achievements.*  
+☕ *Code running, coffee in hand and gameplay in the veins.*
 
 
 ## 🧙 Class & Build
